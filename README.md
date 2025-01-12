@@ -1,5 +1,3 @@
-# Brain-Tumor-Detection
-
 # Deep Learning in Medical Image Analysis: Homework 3
 
 **Author**: 313657003 周佳萱  
@@ -29,10 +27,6 @@ Both tasks aim to address challenges such as imbalanced data and small sample si
    - Train a ResNet50 model to classify six PD stages.
    - Predict probabilities and disease stages for test images.
 
-3. **Deliverables**:
-   - Predicted results file: `ResNet50_6c.csv`.
-   - Python code (`.ipynb`) and compiled HTML report.
-
 ---
 
 ### Part 2: 3D MRI Image Analysis (Brain Tumor Detection)
@@ -48,13 +42,6 @@ Both tasks aim to address challenges such as imbalanced data and small sample si
    - Perform four analyses: single slice, late fusion, early fusion, and 3D CNNs.
    - Utilize transfer learning and pre-trained models for improved accuracy.
    - For pre-trained models, represent three channels as T1 grayscale, T2 grayscale, and their average.
-
-4. **Deliverables**:
-   - Prediction result files: `single.csv`, `late.csv`, `early.csv`, and `3D.csv`.
-   - Python code (`.ipynb`), compiled HTML report, and Kaggle submission.
-
-5. **Evaluation**:
-   - Kaggle competition accuracy metric with a maximum of five submissions per day.
 
 ---
 
@@ -109,10 +96,6 @@ Both tasks aim to address challenges such as imbalanced data and small sample si
 1. **Selected Model**: Late Fusion with VGG16  
    - **Parameter Count**: 14,917,442  
    - Achieved robust performance on test data.
-
-2. **Other Models**:
-   - Early Fusion: Adjusted for multi-slice input by expanding channels.
-   - 3D CNNs: Designed for volumetric analysis of 3D MRI images.
 
 ---
 
