@@ -1,6 +1,7 @@
 # Deep Learning in Medical Image Analysis: Homework 3
+---
 
-**Author**: 313657003 周佳萱  
+**Author**: 周佳萱  
 **Course**: Deep Learning in Medical Image Analysis  
 **Date**: 2024/11/18  
 
